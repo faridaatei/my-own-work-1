@@ -1,0 +1,27 @@
+
+
+body{background-color: purple;
+	background-image:url(../images/magician.jpg);
+	background-attachment: fixed;
+	background-size: 100%,cover;
+	background-repeat:no-repeat;
+	background-position:center top,center;
+}
+	
+	
+.content{
+width:1000px;
+min-height: 500px;
+padding:30px;
+margin:30px auto;
+
+height: 200px
+text-align:center;	
+color:white;
+
+
+
+
+
+}
+

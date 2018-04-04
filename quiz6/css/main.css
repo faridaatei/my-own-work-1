@@ -1,0 +1,35 @@
+
+
+body{
+	background-color:#d3c4a3; 
+		
+	
+}
+
+header{
+	color:000000;
+	background-color:#cca65d;
+	text-align: center;
+	font-size: 50px;
+padding-top: 80px;
+
+}
+h1{color:#41342b;}
+h2{color:000000;}
+image{background-color: 000000}
+
+.content{
+	width: 1000px;
+	background-color: #ffffff;
+	padding: 50px;
+	margin:25px;
+	font size :60px;
+}
+footer{background-color:#413827;
+	
+	padding: 30px;
+	text-align: center;
+
+
+
+}
