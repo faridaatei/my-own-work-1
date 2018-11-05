@@ -1,0 +1,46 @@
+body {
+	background-color: #E3E2DF;
+	color: #5D001E;
+}
+
+img
+ {width: 50%;
+ 	border-radius: 2%;
+ 	padding: 20px;
+ 	background-color:  #E3AFBC;
+ }
+
+
+h2{color:#5D001E;
+ 	float right;
+
+ }
+
+
+
+.nav {
+    background-color:  #5D001E;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.nav a:hover {
+    background-color:  #E3AFBC;
+    color: black;
+}
+
+
+.nav a.active {
+    background-color: #E3AFBC;
+    color: white;
+}
+ 

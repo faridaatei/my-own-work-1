@@ -1,0 +1,70 @@
+    body{
+
+        background-color: #333333;
+    }
+
+
+
+    .nav {
+    background-color:  #5D001E;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.nav a:hover {
+    background-color:  #E3AFBC;;
+    color: black;
+}
+
+
+.nav a.active {
+    background-color: #E3AFBC;
+    color: white;
+}
+
+
+
+
+
+    
+ input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;   
+    border: 1px solid #E3AFBC; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical /
+}
+
+
+input[type=submit] {
+    background-color: #E3AFBC;;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+    background-color: #E3AFBC;
+}
+
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}

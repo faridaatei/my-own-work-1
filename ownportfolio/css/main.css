@@ -1,0 +1,148 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body{
+
+	width: 100%;
+	height:100%;
+	font-size: 14px;
+	font-weight: normal;
+	background-color:#E3E2DF; 
+
+	text-transform: uppercase;
+	color: #5D001E;
+
+
+	
+	
+	}
+
+
+.nav {
+    background-color:  #5D001E;
+  
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+.nav a:hover {
+    background-color:  #E3AFBC;    
+}
+
+
+.nav a.active {
+    background-color: #E3AFBC;
+    color: white;
+}
+
+	.content
+{
+	
+	text-transform: uppercase; 
+	text-align: center;
+	color: white;
+
+
+}
+	h2{
+		margin-top: 40px;
+		height: 20;px;
+		font-size: 20px;
+		font-family:sans-serif;
+		color: #5D001E;
+		
+
+	}
+
+	h3{
+		margin-top: 40px;
+		height: 30px;
+		font-size: 20px;
+		font-family: sans-serif;
+		color: #5D001E;
+
+
+	}
+
+.msg{
+	position: relative;
+	 text-align: center;
+	 font-family: sans-serif;
+	 color: #5D001E;
+	 top:-600px;
+	 padding: 10%;
+
+}
+
+	
+
+.msg h1{
+	font-size: 45px;
+	margin: 25px;
+	color: white;
+
+}
+
+
+.btn{
+	font-size: 20px;
+	color: #fff;
+	letter-spacing: 2px;
+	margin: 5px;
+	padding: 7px 28px;
+	text-decoration: none;
+	border: 1px solid pink;
+	border-radius:25px;
+}
+
+.btn1{
+	background: #E3AFBC;
+	color: #fff;}
+
+
+	.btn2hover{ 
+		background:blue;
+		transition:.4s;
+
+
+}
+
+.chicks{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:  #5D001E;
+    color: white;
+    text-align: center;
+    height: 10%
+}1
+.fa-facebook {
+ color: 3b5999; 
+ 
+ padding-top: 20px;
+}
+
+.fa-instagram
+{
+color: blue;
+padding-top: 10px;
+}
+
+.fa-twitter
+{
+color: grey;
+padding-bottom: 10px;
+}

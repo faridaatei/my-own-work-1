@@ -1,0 +1,49 @@
+body {
+  background-color: burlywood;
+
+
+
+  
+}
+
+img {float:left;
+
+
+}
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  width: 150px;
+  min-height: 600px;
+  background-color: rgba(0, 0, 0, 0.7);
+  text-transform: uppercase;
+}
+li > a {
+  padding: 17px 17px;
+  display: block;
+  text-decoration: none;
+  color: black;
+  line-height: 60px;
+  text-align: center;
+  color: #fff;
+}
+li > a:hover {
+  background-color: #555;
+  color: white;
+}
+.dropdown {
+  display: none;
+}
+li:hover.dropdown {
+  display: block;
+}
+li {
+  position: relative;
+}
+li.dropdown {
+  position: absolute;
+}
+.dropdown {
+  left: 100%;
+}

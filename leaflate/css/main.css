@@ -1,0 +1,106 @@
+body 
+{
+	
+	background-image: url(../images/trench4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-transform: uppercase;
+	font-family: arial;
+	 text-align: center;
+	 
+
+
+}
+
+.fash {
+	background-color: black;
+	border-radius: 10px;
+	border:2px solid red;
+	float: right;
+	margin: 0 auto;
+
+}
+ul
+{
+	list-style-type: none;
+
+}
+li
+{
+display:inline;
+border-right: 1px  thick yellow;
+line-height: 20px;
+/*background-color: #6666cc;
+*/font-size: 20px;
+
+
+}
+
+li a
+{
+	text-decoration: none;
+
+	text-align: center;
+	color: white;
+	padding: 16px 18px;
+}
+li a:hover {
+    background-color:#6666cc;
+    color: white;
+
+}
+
+
+.msg{
+	position: relative;
+	 text-align: center;
+	 font-family: sans-serif;
+	 color: #fff;
+	 top:400px;
+	 padding: 30%;
+	 border-radius: 1px solid black;
+
+
+}
+
+msg h1{
+	font-size: 5px;
+	margin: 25px;
+	color: pink;
+
+}
+
+
+.btn{
+	font-size: 20px;
+	color: #fff;
+	letter-spacing: 2px;
+	margin: 5px;
+	padding: 7px 28px;
+	text-decoration: none;
+	border: 1px solid pink;
+	border-radius:25px;
+}
+.btn1{
+	background: #6666cc;
+	color: #fff;}
+
+
+	.btn2hover{ 
+		background:#6666cc;;
+		transition:.4s;
+
+
+}
+
+./*footer{
+
+ position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #6666cc;
+    color: white;
+   
+    text-align: center;
+}*/

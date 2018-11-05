@@ -10,10 +10,7 @@ background-repeat: repeat-x;
 
 header{
 	
-	background-size: cover;
-	background-position: center;
-
-}
+	
 .content
 {
 	background-color: coral;
@@ -109,8 +106,10 @@ margin:20px;}
 	margin: 5px;
 	padding: 7px 28px;
 	text-decoration: none;
-	border: 1px solid coral','
+	border: 1px solid coral;
 	border-radius:25px;
+	
+
 }
 .btn1{
 	background: coral;
