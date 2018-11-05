@@ -4,24 +4,16 @@
 body{
 
 
-    background-color: #333333;
-
-    color: white;
+    /*background-color: blue;
+*/
 }
 
-
-.dau{
-
-
-
-   
-}
 
 
 
 
  .nav {
-    background-color:  #000000;
+    background-color:  #5D001E;
     overflow: hidden;
 }
 
@@ -36,12 +28,13 @@ body{
 
 
 .nav a:hover {
-    background-color:  #ddd;
+    background-color:  #E3AFBC;
     color: black;
 }
 
 
 .nav a.active {
-    background-color: #6666cc;
+    background-color: #E3AFBC;
     color: white;
 }
+ 

@@ -12,18 +12,31 @@ background-color: #333333;
 
 img
  {width: 50%;
-  border-radius: 2%;
-  padding: 20px;
-  background-color: #6666cc;
+
+ padding: 20px;
+
   margin-top: 20px;
   margin-left: 100px;
+  border-radius: 30%;
+
+  float:left;
+  background-color:#E3AFBC; 
+    
 
  }
 
 
+.pizza
+
+
+{
+	width: 100%;
+	height: auto;
+
+}
 
 .nav {
-    background-color:  #000000;
+    background-color:  #5D001E;
     overflow: hidden;
 }
 
@@ -38,33 +51,17 @@ img
 
 
 .nav a:hover {
-    background-color:  #ddd;
+    background-color:  #E3AFBC;
     color: black;
 }
 
 
 .nav a.active {
-    background-color: #6666cc;
+    background-color: #E3AFBC;
     color: white;
 }
  
 
-
- img
-  {
-  	border-radius: 30%;
-  	width: 50%;
-  	float:left;
-  	
-  }
-.pizza
-
-
-{
-	width: 100%;
-	height: auto;
-
-}
 
 
  	
